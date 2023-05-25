@@ -1,0 +1,7 @@
+[Added Associations]
+image/png=com.google.Chrome.desktop;
+x-scheme-handler/http=brave_brave.desktop;com.google.Chrome.desktop;crd-url-forwarder.desktop;
+video/mp4=vlc.desktop;
+
+[Default Applications]
+video/mp4=vlc.desktop
